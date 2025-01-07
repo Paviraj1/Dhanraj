@@ -1,0 +1,4 @@
+{
+    login details
+    user details
+}
