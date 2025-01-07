@@ -1,5 +1,5 @@
 {
     login details
     user details
-    user activate
+    user WebGL2RenderingContext;
 }
